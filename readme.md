@@ -2,9 +2,9 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I'm a [FrontEnd Developer](http://linkedin.com/in/jonathanstassen) in the Chicagoland area. I've worked for [several](http://votimoe.com) [startups](http://sproutsocial.com). I [blog](http://blog.jstassen.com) [sometimes](http://thebox193.tumblr.com).
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything means *anything*. Personal questions. Travel. Work. Life. Code. Whatever.
 
 -
 
@@ -13,7 +13,6 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
 - Be civil and polite.
 
 ### Links
